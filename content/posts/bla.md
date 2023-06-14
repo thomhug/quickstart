@@ -10,5 +10,5 @@ draft: false
 dritter Pos
 asfasdfadsfot
 
-sdfasdf
+Brauchen wir Bilder?
 
