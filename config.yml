@@ -1,0 +1,14 @@
+baseURL: http://example.org/
+languageCode: en-us
+title: Toms New Hugo Site
+theme: ananke
+
+recourceDir: /tmp/hugo_resources
+
+caches:
+  assets:
+    dir: /tmp/hugo_resources/_gen
+    maxAge: -1
+  images:
+    dir: /tmp/hugo_resources/_gen/images
+    maxAge: -1
