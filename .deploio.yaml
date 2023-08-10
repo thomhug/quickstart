@@ -1,3 +1,3 @@
 port: 1313
 
-# nctl update app hugo --build-env=BP_KEEP_FILES="archetypes/*:content/*:resources/*:themes/*:hugo.toml"
+# nctl update app hugo --build-env=BP_KEEP_FILES="archetypes/*:content/*:resources/*:themes/*:config.yml"
