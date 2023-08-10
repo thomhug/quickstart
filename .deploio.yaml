@@ -1,1 +1,4 @@
 port: 1313
+env:
+  - name: BP_KEEP_FILES
+    value: archetypes/*:content/*:resources/*:themes/*:hugo.toml
