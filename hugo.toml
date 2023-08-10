@@ -2,3 +2,8 @@ baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'Toms New Hugo Site'
 theme = 'ananke'
+
+[caches]
+  [caches.assets]
+    dir = '/tmp/_gen'
+    maxAge = -1
